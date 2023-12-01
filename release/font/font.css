@@ -1,8 +1,8 @@
 /* gg sans font */
-@import url(https://zuzumi-f.github.io/Discord-11/release/font/SegoeUIVariableStaticDisplay.ttf);
+@import url(https://github.com/RoyalQX/Discord-11/blob/main/release/font/ggsansMedium.ttf);
 /* Font */
 :root {
-    --font-primary: Segoe UI, sans-serif;
-    --font-display: Segoe UI, sans-serif;
-    --font-headline: Segoe UI, sans-serif;
+    --font-primary: gg sans, sans-serif;
+    --font-display: gg sans, sans-serif;
+    --font-headline: gg sans, sans-serif;
 }
